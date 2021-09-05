@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio2021/static/css/main.0cf642cf.chunk.css",
-    "main.js": "/portfolio2021/static/js/main.84b4ef80.chunk.js",
-    "main.js.map": "/portfolio2021/static/js/main.84b4ef80.chunk.js.map",
-    "runtime-main.js": "/portfolio2021/static/js/runtime-main.ada5cba8.js",
-    "runtime-main.js.map": "/portfolio2021/static/js/runtime-main.ada5cba8.js.map",
-    "static/js/2.934ec176.chunk.js": "/portfolio2021/static/js/2.934ec176.chunk.js",
-    "static/js/2.934ec176.chunk.js.map": "/portfolio2021/static/js/2.934ec176.chunk.js.map",
-    "index.html": "/portfolio2021/index.html",
-    "precache-manifest.af254fc5e1a36eabe06b13ad26dbbbac.js": "/portfolio2021/precache-manifest.af254fc5e1a36eabe06b13ad26dbbbac.js",
-    "service-worker.js": "/portfolio2021/service-worker.js",
-    "static/css/main.0cf642cf.chunk.css.map": "/portfolio2021/static/css/main.0cf642cf.chunk.css.map",
-    "static/js/2.934ec176.chunk.js.LICENSE.txt": "/portfolio2021/static/js/2.934ec176.chunk.js.LICENSE.txt",
-    "static/media/adidas.png": "/portfolio2021/static/media/adidas.e90e662f.png",
-    "static/media/complex-2.png": "/portfolio2021/static/media/complex-2.8d7718ac.png",
-    "static/media/complex.png": "/portfolio2021/static/media/complex.dde7b1b5.png",
-    "static/media/curology-min.png": "/portfolio2021/static/media/curology-min.e84c2055.png",
-    "static/media/lumin-min.png": "/portfolio2021/static/media/lumin-min.379bad94.png",
-    "static/media/nola-2.png": "/portfolio2021/static/media/nola-2.860f8240.png",
-    "static/media/nola.png": "/portfolio2021/static/media/nola.04386d2b.png",
-    "static/media/yourspace-min.png": "/portfolio2021/static/media/yourspace-min.5f9e3077.png"
+    "main.css": "/ar-episode1-starter/static/css/main.0cf642cf.chunk.css",
+    "main.js": "/ar-episode1-starter/static/js/main.4aeb7659.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.4aeb7659.chunk.js.map",
+    "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
+    "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
+    "static/js/2.934ec176.chunk.js": "/ar-episode1-starter/static/js/2.934ec176.chunk.js",
+    "static/js/2.934ec176.chunk.js.map": "/ar-episode1-starter/static/js/2.934ec176.chunk.js.map",
+    "index.html": "/ar-episode1-starter/index.html",
+    "precache-manifest.a0e00bfa8a310b5390d0cba023062c43.js": "/ar-episode1-starter/precache-manifest.a0e00bfa8a310b5390d0cba023062c43.js",
+    "service-worker.js": "/ar-episode1-starter/service-worker.js",
+    "static/css/main.0cf642cf.chunk.css.map": "/ar-episode1-starter/static/css/main.0cf642cf.chunk.css.map",
+    "static/js/2.934ec176.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.934ec176.chunk.js.LICENSE.txt",
+    "static/media/adidas.png": "/ar-episode1-starter/static/media/adidas.e90e662f.png",
+    "static/media/complex-2.png": "/ar-episode1-starter/static/media/complex-2.8d7718ac.png",
+    "static/media/complex.png": "/ar-episode1-starter/static/media/complex.dde7b1b5.png",
+    "static/media/curology-min.png": "/ar-episode1-starter/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/ar-episode1-starter/static/media/lumin-min.379bad94.png",
+    "static/media/nola-2.png": "/ar-episode1-starter/static/media/nola-2.860f8240.png",
+    "static/media/nola.png": "/ar-episode1-starter/static/media/nola.04386d2b.png",
+    "static/media/yourspace-min.png": "/ar-episode1-starter/static/media/yourspace-min.5f9e3077.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ada5cba8.js",
+    "static/js/runtime-main.dc96a278.js",
     "static/js/2.934ec176.chunk.js",
     "static/css/main.0cf642cf.chunk.css",
-    "static/js/main.84b4ef80.chunk.js"
+    "static/js/main.4aeb7659.chunk.js"
   ]
 }
