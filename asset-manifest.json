@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ar-episode1-starter/static/css/main.33deef27.chunk.css",
-    "main.js": "/ar-episode1-starter/static/js/main.ed8d2cd9.chunk.js",
-    "main.js.map": "/ar-episode1-starter/static/js/main.ed8d2cd9.chunk.js.map",
+    "main.css": "/ar-episode1-starter/static/css/main.1e9642fd.chunk.css",
+    "main.js": "/ar-episode1-starter/static/js/main.56ef58f1.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.56ef58f1.chunk.js.map",
     "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
     "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
-    "static/js/2.2b47a9e6.chunk.js": "/ar-episode1-starter/static/js/2.2b47a9e6.chunk.js",
-    "static/js/2.2b47a9e6.chunk.js.map": "/ar-episode1-starter/static/js/2.2b47a9e6.chunk.js.map",
+    "static/js/2.c52db4e1.chunk.js": "/ar-episode1-starter/static/js/2.c52db4e1.chunk.js",
+    "static/js/2.c52db4e1.chunk.js.map": "/ar-episode1-starter/static/js/2.c52db4e1.chunk.js.map",
     "index.html": "/ar-episode1-starter/index.html",
-    "precache-manifest.b9eb44bd52203e7319e3d86ee26a9d25.js": "/ar-episode1-starter/precache-manifest.b9eb44bd52203e7319e3d86ee26a9d25.js",
+    "precache-manifest.01ee17068434d739940e422aed490fb7.js": "/ar-episode1-starter/precache-manifest.01ee17068434d739940e422aed490fb7.js",
     "service-worker.js": "/ar-episode1-starter/service-worker.js",
-    "static/css/main.33deef27.chunk.css.map": "/ar-episode1-starter/static/css/main.33deef27.chunk.css.map",
-    "static/js/2.2b47a9e6.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.2b47a9e6.chunk.js.LICENSE.txt",
+    "static/css/main.1e9642fd.chunk.css.map": "/ar-episode1-starter/static/css/main.1e9642fd.chunk.css.map",
+    "static/js/2.c52db4e1.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.c52db4e1.chunk.js.LICENSE.txt",
     "static/media/adidas.png": "/ar-episode1-starter/static/media/adidas.e90e662f.png",
     "static/media/complex-2.png": "/ar-episode1-starter/static/media/complex-2.8d7718ac.png",
     "static/media/complex.png": "/ar-episode1-starter/static/media/complex.dde7b1b5.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dc96a278.js",
-    "static/js/2.2b47a9e6.chunk.js",
-    "static/css/main.33deef27.chunk.css",
-    "static/js/main.ed8d2cd9.chunk.js"
+    "static/js/2.c52db4e1.chunk.js",
+    "static/css/main.1e9642fd.chunk.css",
+    "static/js/main.56ef58f1.chunk.js"
   ]
 }
