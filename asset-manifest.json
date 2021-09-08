@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/ar-episode1-starter/static/css/main.8189049b.chunk.css",
-    "main.js": "/ar-episode1-starter/static/js/main.8417ea16.chunk.js",
-    "main.js.map": "/ar-episode1-starter/static/js/main.8417ea16.chunk.js.map",
+    "main.css": "/ar-episode1-starter/static/css/main.f8365147.chunk.css",
+    "main.js": "/ar-episode1-starter/static/js/main.d08a6e6b.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.d08a6e6b.chunk.js.map",
     "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
     "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
     "static/js/2.2b47a9e6.chunk.js": "/ar-episode1-starter/static/js/2.2b47a9e6.chunk.js",
     "static/js/2.2b47a9e6.chunk.js.map": "/ar-episode1-starter/static/js/2.2b47a9e6.chunk.js.map",
     "index.html": "/ar-episode1-starter/index.html",
-    "precache-manifest.021d0d32e0698f0ef43bd9d3c1f27366.js": "/ar-episode1-starter/precache-manifest.021d0d32e0698f0ef43bd9d3c1f27366.js",
+    "precache-manifest.f4b120a649794eabe16c4660bfe96a8e.js": "/ar-episode1-starter/precache-manifest.f4b120a649794eabe16c4660bfe96a8e.js",
     "service-worker.js": "/ar-episode1-starter/service-worker.js",
-    "static/css/main.8189049b.chunk.css.map": "/ar-episode1-starter/static/css/main.8189049b.chunk.css.map",
+    "static/css/main.f8365147.chunk.css.map": "/ar-episode1-starter/static/css/main.f8365147.chunk.css.map",
     "static/js/2.2b47a9e6.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.2b47a9e6.chunk.js.LICENSE.txt",
     "static/media/adidas.png": "/ar-episode1-starter/static/media/adidas.e90e662f.png",
+    "static/media/andres.png": "/ar-episode1-starter/static/media/andres.331dd41e.png",
     "static/media/complex-2.png": "/ar-episode1-starter/static/media/complex-2.8d7718ac.png",
+    "static/media/complex-3.png": "/ar-episode1-starter/static/media/complex-3.d2cb6af7.png",
     "static/media/complex.png": "/ar-episode1-starter/static/media/complex.dde7b1b5.png",
-    "static/media/curology-min.png": "/ar-episode1-starter/static/media/curology-min.e84c2055.png",
-    "static/media/lumin-min.png": "/ar-episode1-starter/static/media/lumin-min.379bad94.png",
+    "static/media/mapcali.png": "/ar-episode1-starter/static/media/mapcali.c5a2ac2c.png",
     "static/media/nola-2.png": "/ar-episode1-starter/static/media/nola-2.860f8240.png",
     "static/media/nola.png": "/ar-episode1-starter/static/media/nola.04386d2b.png",
-    "static/media/yourspace-min.png": "/ar-episode1-starter/static/media/yourspace-min.5f9e3077.png"
+    "static/media/nolaface.png": "/ar-episode1-starter/static/media/nolaface.8889e315.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dc96a278.js",
     "static/js/2.2b47a9e6.chunk.js",
-    "static/css/main.8189049b.chunk.css",
-    "static/js/main.8417ea16.chunk.js"
+    "static/css/main.f8365147.chunk.css",
+    "static/js/main.d08a6e6b.chunk.js"
   ]
 }
