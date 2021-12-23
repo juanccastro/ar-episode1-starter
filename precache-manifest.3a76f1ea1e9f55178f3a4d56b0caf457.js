@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fecfe0ed9971cbee12073b4d8b923b43",
+    "revision": "0e26f9c46c99ee581dcab886d4b5a237",
     "url": "/ar-episode1-starter/index.html"
   },
   {
-    "revision": "60d3ff0e415af414fbe7",
+    "revision": "20e07a732f52103cc7d8",
     "url": "/ar-episode1-starter/static/css/main.3be76b01.chunk.css"
   },
   {
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60d3ff0e415af414fbe7",
-    "url": "/ar-episode1-starter/static/js/main.4006534c.chunk.js"
+    "revision": "20e07a732f52103cc7d8",
+    "url": "/ar-episode1-starter/static/js/main.8a04e67e.chunk.js"
   },
   {
     "revision": "d1ced229b758219096ea",
     "url": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js"
+  },
+  {
+    "revision": "d5ca185b1a785e3b05601cb0629e2be4",
+    "url": "/ar-episode1-starter/static/media/COVER.d5ca185b.png"
+  },
+  {
+    "revision": "55f11d6abac555f25c56591f8563faa6",
+    "url": "/ar-episode1-starter/static/media/Group 69.55f11d6a.png"
   },
   {
     "revision": "e90e662f94e435f772cf71ce5d8ffc18",
@@ -32,16 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ar-episode1-starter/static/media/andres.331dd41e.png"
   },
   {
-    "revision": "8d7718ac8dd3a7fd54022ef5a51e1f87",
-    "url": "/ar-episode1-starter/static/media/complex-2.8d7718ac.png"
+    "revision": "c7a4f9e16c33db04f31bf74d39b243c0",
+    "url": "/ar-episode1-starter/static/media/complex-2.c7a4f9e1.png"
   },
   {
-    "revision": "d2cb6af76439575107438a445de8f824",
-    "url": "/ar-episode1-starter/static/media/complex-3.d2cb6af7.png"
+    "revision": "877a73f9073891ef07520017dd652c3e",
+    "url": "/ar-episode1-starter/static/media/complex-3.877a73f9.png"
   },
   {
-    "revision": "dde7b1b5def117bcfa146fb326d991de",
-    "url": "/ar-episode1-starter/static/media/complex.dde7b1b5.png"
+    "revision": "bbd2cd996e17ee292e8171ff73d94370",
+    "url": "/ar-episode1-starter/static/media/complex-4.bbd2cd99.png"
+  },
+  {
+    "revision": "7635b242abdca96ccbf5c677612aa2e0",
+    "url": "/ar-episode1-starter/static/media/complex.7635b242.png"
   },
   {
     "revision": "c5a2ac2c6aede629fd33b18245fba412",
@@ -56,11 +68,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ar-episode1-starter/static/media/nola-2.860f8240.png"
   },
   {
-    "revision": "04386d2b31988a4eada69f698e9b7e1d",
-    "url": "/ar-episode1-starter/static/media/nola.04386d2b.png"
+    "revision": "1c125c4a0dd746105767402116dd36d6",
+    "url": "/ar-episode1-starter/static/media/nola-3.1c125c4a.png"
   },
   {
-    "revision": "8889e315fd34c1cd2bd2a4e01ff86891",
-    "url": "/ar-episode1-starter/static/media/nolaface.8889e315.png"
+    "revision": "04386d2b31988a4eada69f698e9b7e1d",
+    "url": "/ar-episode1-starter/static/media/nola.04386d2b.png"
   }
 ]);
