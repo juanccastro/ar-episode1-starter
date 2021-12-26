@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ar-episode1-starter/static/css/main.d6cb8740.chunk.css",
-    "main.js": "/ar-episode1-starter/static/js/main.6ec2a58b.chunk.js",
-    "main.js.map": "/ar-episode1-starter/static/js/main.6ec2a58b.chunk.js.map",
+    "main.css": "/ar-episode1-starter/static/css/main.c14db934.chunk.css",
+    "main.js": "/ar-episode1-starter/static/js/main.c24df0cd.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.c24df0cd.chunk.js.map",
     "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
     "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
     "static/js/2.467f60bc.chunk.js": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js",
     "static/js/2.467f60bc.chunk.js.map": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.map",
     "index.html": "/ar-episode1-starter/index.html",
-    "precache-manifest.bc3814a95345c107d5dcab16b3ddca5e.js": "/ar-episode1-starter/precache-manifest.bc3814a95345c107d5dcab16b3ddca5e.js",
+    "precache-manifest.87c0b0b2a2d8ca65c9c2e71b9ccd84a4.js": "/ar-episode1-starter/precache-manifest.87c0b0b2a2d8ca65c9c2e71b9ccd84a4.js",
     "service-worker.js": "/ar-episode1-starter/service-worker.js",
-    "static/css/main.d6cb8740.chunk.css.map": "/ar-episode1-starter/static/css/main.d6cb8740.chunk.css.map",
+    "static/css/main.c14db934.chunk.css.map": "/ar-episode1-starter/static/css/main.c14db934.chunk.css.map",
     "static/js/2.467f60bc.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.LICENSE.txt",
     "static/media/COVER.png": "/ar-episode1-starter/static/media/COVER.d5ca185b.png",
     "static/media/Group 69.png": "/ar-episode1-starter/static/media/Group 69.7915918f.png",
@@ -21,7 +21,7 @@
     "static/media/complex-4.png": "/ar-episode1-starter/static/media/complex-4.bbd2cd99.png",
     "static/media/complex.png": "/ar-episode1-starter/static/media/complex.7635b242.png",
     "static/media/mapcali.png": "/ar-episode1-starter/static/media/mapcali.c5a2ac2c.png",
-    "static/media/name.png": "/ar-episode1-starter/static/media/name.55fd0af8.png",
+    "static/media/name.png": "/ar-episode1-starter/static/media/name.e54bb08b.png",
     "static/media/nola-2.png": "/ar-episode1-starter/static/media/nola-2.860f8240.png",
     "static/media/nola-3.png": "/ar-episode1-starter/static/media/nola-3.1c125c4a.png",
     "static/media/nola.png": "/ar-episode1-starter/static/media/nola.04386d2b.png"
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.dc96a278.js",
     "static/js/2.467f60bc.chunk.js",
-    "static/css/main.d6cb8740.chunk.css",
-    "static/js/main.6ec2a58b.chunk.js"
+    "static/css/main.c14db934.chunk.css",
+    "static/js/main.c24df0cd.chunk.js"
   ]
 }
