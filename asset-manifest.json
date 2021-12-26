@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ar-episode1-starter/static/css/main.836697d0.chunk.css",
-    "main.js": "/ar-episode1-starter/static/js/main.c24df0cd.chunk.js",
-    "main.js.map": "/ar-episode1-starter/static/js/main.c24df0cd.chunk.js.map",
+    "main.css": "/ar-episode1-starter/static/css/main.8ae64874.chunk.css",
+    "main.js": "/ar-episode1-starter/static/js/main.369af4aa.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.369af4aa.chunk.js.map",
     "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
     "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
     "static/js/2.467f60bc.chunk.js": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js",
     "static/js/2.467f60bc.chunk.js.map": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.map",
     "index.html": "/ar-episode1-starter/index.html",
-    "precache-manifest.3872e00aacaf46c57594c612c419b117.js": "/ar-episode1-starter/precache-manifest.3872e00aacaf46c57594c612c419b117.js",
+    "precache-manifest.fb1f1839fb2f34b987b4f06b8d91bf39.js": "/ar-episode1-starter/precache-manifest.fb1f1839fb2f34b987b4f06b8d91bf39.js",
     "service-worker.js": "/ar-episode1-starter/service-worker.js",
-    "static/css/main.836697d0.chunk.css.map": "/ar-episode1-starter/static/css/main.836697d0.chunk.css.map",
+    "static/css/main.8ae64874.chunk.css.map": "/ar-episode1-starter/static/css/main.8ae64874.chunk.css.map",
     "static/js/2.467f60bc.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.LICENSE.txt",
     "static/media/COVER.png": "/ar-episode1-starter/static/media/COVER.d5ca185b.png",
     "static/media/Group 69.png": "/ar-episode1-starter/static/media/Group 69.7915918f.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.dc96a278.js",
     "static/js/2.467f60bc.chunk.js",
-    "static/css/main.836697d0.chunk.css",
-    "static/js/main.c24df0cd.chunk.js"
+    "static/css/main.8ae64874.chunk.css",
+    "static/js/main.369af4aa.chunk.js"
   ]
 }
