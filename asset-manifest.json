@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ar-episode1-starter/static/css/main.97215dc7.chunk.css",
-    "main.js": "/ar-episode1-starter/static/js/main.79d52c90.chunk.js",
-    "main.js.map": "/ar-episode1-starter/static/js/main.79d52c90.chunk.js.map",
+    "main.js": "/ar-episode1-starter/static/js/main.0a9802b4.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.0a9802b4.chunk.js.map",
     "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
     "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
     "static/js/2.467f60bc.chunk.js": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js",
     "static/js/2.467f60bc.chunk.js.map": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.map",
     "index.html": "/ar-episode1-starter/index.html",
-    "precache-manifest.3e0017e3b0744da9e687a299ae043c1e.js": "/ar-episode1-starter/precache-manifest.3e0017e3b0744da9e687a299ae043c1e.js",
+    "precache-manifest.0e8f5ea462eff1a0f4c476efb47c4d93.js": "/ar-episode1-starter/precache-manifest.0e8f5ea462eff1a0f4c476efb47c4d93.js",
     "service-worker.js": "/ar-episode1-starter/service-worker.js",
     "static/css/main.97215dc7.chunk.css.map": "/ar-episode1-starter/static/css/main.97215dc7.chunk.css.map",
     "static/js/2.467f60bc.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.LICENSE.txt",
@@ -21,6 +21,7 @@
     "static/media/complex-3.png": "/ar-episode1-starter/static/media/complex-3.877a73f9.png",
     "static/media/complex-4.png": "/ar-episode1-starter/static/media/complex-4.bbd2cd99.png",
     "static/media/complex.png": "/ar-episode1-starter/static/media/complex.7635b242.png",
+    "static/media/fwa.mp4": "/ar-episode1-starter/static/media/fwa.9b01d250.mp4",
     "static/media/mapcali.png": "/ar-episode1-starter/static/media/mapcali.c5a2ac2c.png",
     "static/media/name.png": "/ar-episode1-starter/static/media/name.e54bb08b.png",
     "static/media/nola-2.png": "/ar-episode1-starter/static/media/nola-2.860f8240.png",
@@ -31,6 +32,6 @@
     "static/js/runtime-main.dc96a278.js",
     "static/js/2.467f60bc.chunk.js",
     "static/css/main.97215dc7.chunk.css",
-    "static/js/main.79d52c90.chunk.js"
+    "static/js/main.0a9802b4.chunk.js"
   ]
 }
