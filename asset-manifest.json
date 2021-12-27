@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ar-episode1-starter/static/css/main.97215dc7.chunk.css",
-    "main.js": "/ar-episode1-starter/static/js/main.99dd6792.chunk.js",
-    "main.js.map": "/ar-episode1-starter/static/js/main.99dd6792.chunk.js.map",
+    "main.css": "/ar-episode1-starter/static/css/main.d6f461e2.chunk.css",
+    "main.js": "/ar-episode1-starter/static/js/main.39e9fb35.chunk.js",
+    "main.js.map": "/ar-episode1-starter/static/js/main.39e9fb35.chunk.js.map",
     "runtime-main.js": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js",
     "runtime-main.js.map": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js.map",
-    "static/js/2.467f60bc.chunk.js": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js",
-    "static/js/2.467f60bc.chunk.js.map": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.map",
+    "static/js/2.5f7496a7.chunk.js": "/ar-episode1-starter/static/js/2.5f7496a7.chunk.js",
+    "static/js/2.5f7496a7.chunk.js.map": "/ar-episode1-starter/static/js/2.5f7496a7.chunk.js.map",
     "index.html": "/ar-episode1-starter/index.html",
-    "precache-manifest.3d13afffca517594b18c5055966de064.js": "/ar-episode1-starter/precache-manifest.3d13afffca517594b18c5055966de064.js",
+    "precache-manifest.19d6a7365cc4319c5e36ecd406b357d7.js": "/ar-episode1-starter/precache-manifest.19d6a7365cc4319c5e36ecd406b357d7.js",
     "service-worker.js": "/ar-episode1-starter/service-worker.js",
-    "static/css/main.97215dc7.chunk.css.map": "/ar-episode1-starter/static/css/main.97215dc7.chunk.css.map",
-    "static/js/2.467f60bc.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.467f60bc.chunk.js.LICENSE.txt",
+    "static/css/main.d6f461e2.chunk.css.map": "/ar-episode1-starter/static/css/main.d6f461e2.chunk.css.map",
+    "static/js/2.5f7496a7.chunk.js.LICENSE.txt": "/ar-episode1-starter/static/js/2.5f7496a7.chunk.js.LICENSE.txt",
     "static/media/COVER.png": "/ar-episode1-starter/static/media/COVER.d5ca185b.png",
     "static/media/index.css": "/ar-episode1-starter/static/media/NeueHaasDisplay-Roman.21087e08.woff",
     "static/media/Group 69.png": "/ar-episode1-starter/static/media/Group 69.7915918f.png",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dc96a278.js",
-    "static/js/2.467f60bc.chunk.js",
-    "static/css/main.97215dc7.chunk.css",
-    "static/js/main.99dd6792.chunk.js"
+    "static/js/2.5f7496a7.chunk.js",
+    "static/css/main.d6f461e2.chunk.css",
+    "static/js/main.39e9fb35.chunk.js"
   ]
 }
