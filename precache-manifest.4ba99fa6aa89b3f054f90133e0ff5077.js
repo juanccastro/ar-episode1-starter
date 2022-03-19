@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f48d0c2c10a222db9f734e12e93a113",
+    "revision": "da71eeb6053e658cdfa2a41fb929b0e1",
     "url": "/ar-episode1-starter/index.html"
   },
   {
-    "revision": "3c53703d1a3ba801b446",
+    "revision": "a906c3b9753b35e418c5",
     "url": "/ar-episode1-starter/static/css/main.d5fa90bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ar-episode1-starter/static/js/2.974c403c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c53703d1a3ba801b446",
-    "url": "/ar-episode1-starter/static/js/main.8da19017.chunk.js"
+    "revision": "a906c3b9753b35e418c5",
+    "url": "/ar-episode1-starter/static/js/main.342930fe.chunk.js"
   },
   {
     "revision": "d1ced229b758219096ea",
@@ -76,11 +76,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ar-episode1-starter/static/media/name.e54bb08b.png"
   },
   {
-    "revision": "6ac6708963e951520be386170ea25e4b",
-    "url": "/ar-episode1-starter/static/media/nola-2.6ac67089.png"
+    "revision": "04386d2b31988a4eada69f698e9b7e1d",
+    "url": "/ar-episode1-starter/static/media/nola-2.04386d2b.png"
   },
   {
-    "revision": "04386d2b31988a4eada69f698e9b7e1d",
-    "url": "/ar-episode1-starter/static/media/nola.04386d2b.png"
+    "revision": "6ac6708963e951520be386170ea25e4b",
+    "url": "/ar-episode1-starter/static/media/nola-3.6ac67089.png"
   }
 ]);
