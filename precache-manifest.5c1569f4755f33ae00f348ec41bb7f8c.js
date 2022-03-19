@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da71eeb6053e658cdfa2a41fb929b0e1",
+    "revision": "b5890d4d5f95d0b7601ec74a8201f513",
     "url": "/ar-episode1-starter/index.html"
   },
   {
-    "revision": "a906c3b9753b35e418c5",
+    "revision": "41944d88cf988018532a",
     "url": "/ar-episode1-starter/static/css/main.d5fa90bb.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ar-episode1-starter/static/js/2.974c403c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a906c3b9753b35e418c5",
-    "url": "/ar-episode1-starter/static/js/main.342930fe.chunk.js"
+    "revision": "41944d88cf988018532a",
+    "url": "/ar-episode1-starter/static/js/main.b526073c.chunk.js"
   },
   {
     "revision": "d1ced229b758219096ea",
     "url": "/ar-episode1-starter/static/js/runtime-main.dc96a278.js"
-  },
-  {
-    "revision": "d5ca185b1a785e3b05601cb0629e2be4",
-    "url": "/ar-episode1-starter/static/media/COVER.d5ca185b.png"
   },
   {
     "revision": "3c5b6d162dc47808f93f9931df0a1171",
@@ -82,5 +78,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6ac6708963e951520be386170ea25e4b",
     "url": "/ar-episode1-starter/static/media/nola-3.6ac67089.png"
+  },
+  {
+    "revision": "d5ca185b1a785e3b05601cb0629e2be4",
+    "url": "/ar-episode1-starter/static/media/nola.d5ca185b.png"
   }
 ]);
